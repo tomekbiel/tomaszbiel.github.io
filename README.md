@@ -20,4 +20,4 @@ How to Use
 To explore the dashboard, simply clone this repository and open the relevant Jupyter Notebook or R Markdown file. Ensure you have the necessary libraries installed, and follow the instructions in the README for setup.
 
 Contributions
-Contributions are welcome! Feel free to submit issues or pull requests. For inquiries, contact me at [your-email@example.com]. 
+Contributions are welcome! Feel free to submit issues or pull requests. For inquiries, contact me at [tomekbiel.office@gmail.com]. 
