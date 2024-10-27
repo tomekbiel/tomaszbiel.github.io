@@ -1,4 +1,5 @@
 Fintech Data Analytics Dashboard
+
 This project is a comprehensive data analytics dashboard aimed at providing insights into financial data for analytics and decision-making purposes. Utilizing both R and Python, this dashboard enables users to visualize trends, assess risks, and drive strategic investment decisions.
 
 Purpose
