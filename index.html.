@@ -9,5 +9,13 @@
 <body>
     <h1>Welcome to My GitHub Page!</h1>
     <p>This is my first GitHub Pages site.</p>
+
+    <https://tomasz.shinyapps.io/shiny/>
+    <h2>Learn more about my Shiny App:</h2>
+    <p>
+        You can find more information about my Shiny App by clicking 
+        <a href="shiny_app.html">here</a>.
+    </p>
+
 </body>
 </html>
